@@ -7,7 +7,7 @@ mkdir -p ~/Rust_API && cd ~/Rust_API
 ```
 
 ```bash
-git clone https://github.com/rthidfrev/Simple-api-in-rust.git
+git clone https://github.com/rthidfrev/WIK-DPS-TP01-Rust-Version.git
 ```
 
 ```bash
